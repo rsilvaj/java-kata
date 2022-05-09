@@ -1,13 +1,12 @@
-package test;
+package code;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import code.FindOdd;
-
 public class FindOddTest {
 	
-	/*
+	/**
+	 * 
 	 * 	Given an array, find the integer that appears an odd number of times.
 	 *	There will always be only one integer that appears an odd number of times.
 	 * 

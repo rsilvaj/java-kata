@@ -1,14 +1,12 @@
-package test;
+package code;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import code.DnaStrand;
-
 
 public class DnaStrandTest {
 	
-	/*
+	/**
 	 * Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and
 	 * carries the "instructions" for the development and functioning of living
 	 * organisms.

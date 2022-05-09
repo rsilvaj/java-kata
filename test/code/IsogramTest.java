@@ -1,17 +1,17 @@
-package test;
+package code;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import code.Isogram;
-
 public class IsogramTest {
 	
-	/*
+	/**
+	 * 
 	 * An isogram is a word that has no repeating letters, consecutive or
 	 * non-consecutive. Implement a function that determines whether a string that
 	 * contains only letters is an isogram. Assume the empty string is an isogram.
 	 * Ignore letter case.
+	 * 
 	 */
 	
 	Isogram isogram = new Isogram();
